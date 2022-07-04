@@ -548,3 +548,11 @@ background: #e91e63;
 
     box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .1);
 }
+#contact form h3:hover{
+    color: #f2aa4cff;
+    transition: all 0.3s ease;
+}
+#oneL-title h2:hover{
+    color: #f2aa4cff;
+    transition: all 0.3s ease;
+}
