@@ -1,1 +1,1 @@
-## WebDesign homework assignment, all rights reserved ©
+## WebDesign homework assignment, © 2022 Zhivhce Gligorov. All rights reserved.
