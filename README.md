@@ -1,2 +1,1 @@
-## WebDesign homework assignment 
-## all rights reserved ©
+## WebDesign homework assignment, all rights reserved ©
